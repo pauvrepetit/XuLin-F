@@ -1,4 +1,4 @@
-<img src="XuLin-logo.png" width="16%" height="16%">
+<img src="XuLin-logo.png" width="20%" height="20%">
 
 # XuLin: A Data-Centric Accelerator for High-Performance Hypergraph Processing
 
