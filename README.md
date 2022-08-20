@@ -97,8 +97,6 @@ Table2: Performance comparison on PageRank(One Iteration) between [Hygra](https:
 | Orkut-group(OG) | 0.505 | 0.0759 | 6.65 |
 
 ## Publications
-If you want to know more detailed information, please refer to this paper:
-
 **\[MICRO'22\]** Qinggang Wang, Long Zheng, Ao Hu, Yu Huang, Pengcheng Yao, Chuangyi Gui, Xiaofei Liao, Hai Jin, Jingling Xue, "A Data-Centric Accelerator for High-Performance Hypergraph Processing", in MICRO-55: 55th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO'22), 2022.
 
 ## Authors and Copyright
