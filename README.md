@@ -96,7 +96,7 @@ Table2: Performance comparison on PageRank(One Iteration) between [Hygra](https:
 ## Publications
 If you want to know more detailed information, please refer to this paper:
 
-**\[MICRO'22\]** Qinggang Wang, Long Zheng, Ao Hu, Yu Huang, Pengcheng Yao, Chuangyi Gui, Xiaofei Liao, Hai Jin, Jingling Xue, "[A Data-Centric Accelerator for High-Performance Hypergraph Processing]()", in MICRO-55: 55th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO'22), 2022.
+**\[MICRO'22\]** Qinggang Wang, Long Zheng, Ao Hu, Yu Huang, Pengcheng Yao, Chuangyi Gui, Xiaofei Liao, Hai Jin, Jingling Xue, "A Data-Centric Accelerator for High-Performance Hypergraph Processing", in MICRO-55: 55th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO'22), 2022.
 
 ## Authors and Copyright
 XuLin-F is developed in National Engineering Research Center for Big Data Technology and System, Cluster and Grid Computing Lab, Services Computing Technology and System Lab, School of Computer Science and Technology, Huazhong University of Science and Technology, Wuhan, China by Qinggang Wang (qgwang@hust.edu.cn), Ao Hu (ahu@hust.edu.cn), Long Zheng (longzh@hust.edu.cn).
