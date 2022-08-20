@@ -2,9 +2,9 @@
 
 ## What's new?
 
-XuLin is accepted to be [MICRO 2022](https://www.microarch.org/micro55/).
+***XuLin is accepted to be [MICRO 2022](https://www.microarch.org/micro55/).***
 
-***XuLin-F for HBM-Enabled FPGA platforms has been released.***
+XuLin-F for HBM-Enabled FPGA platforms has been released.
 ## Introduction
 
 XuLin is a data-centric accelerator for high-performance hypergraph processing. 
