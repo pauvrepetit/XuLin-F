@@ -56,7 +56,7 @@ $ cd XuLin-F/bin/
 $ ./XuLin-F-PR ./XuLin-F-PR.xclbin <hypergraph dataset>
 ```
 
-## Dataset
+## Datasets
 
 The datasets come from the following sources:
 
@@ -84,7 +84,7 @@ Table1: Hypergraph Datasets
 | Orkut-group(OG) | 2.78M | 8.73M | 327.03M | 4.6GB |
 
 
-Table2: Performance comparison on PageRank(One Iteration) between Hygra and XuLin-F (16-threads/16-PEs configuration)
+Table2: Performance comparison on PageRank(One Iteration) between [Hygra](https://github.com/jshun/ppopp20-ae) and XuLin-F (16-threads/16-PEs configuration)
 | Datasets | Hygra on CPU(s) | XuLin-F on U280(s) | SpeedUp |
 | :----: | :----: | :----: | :----: |
 | trec-wt(TW) | 0.053 | 0.0235 | 2.26 |
@@ -96,7 +96,7 @@ Table2: Performance comparison on PageRank(One Iteration) between Hygra and XuLi
 ## Publications
 If you want to know more detailed information, please refer to this paper:
 
-Qinggang Wang, Long Zheng, Ao Hu, Yu Huang, Pengcheng Yao, Chuangyi Gui, Xiaofei Liao, Hai Jin, Jingling Xue. A Data-Centric Accelerator for High-Performance Hypergraph Processing. In MICRO-55: 55th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO '22).
+**\[MICRO'22\]** Qinggang Wang, Long Zheng, Ao Hu, Yu Huang, Pengcheng Yao, Chuangyi Gui, Xiaofei Liao, Hai Jin, Jingling Xue, "[A Data-Centric Accelerator for High-Performance Hypergraph Processing]()", in MICRO-55: 55th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO '22), 2022.
 
 ## Authors and Copyright
 XuLin-F is developed in National Engineering Research Center for Big Data Technology and System, Cluster and Grid Computing Lab, Services Computing Technology and System Lab, School of Computer Science and Technology, Huazhong University of Science and Technology, Wuhan, China by Qinggang Wang (qgwang@hust.edu.cn), Ao Hu (ahu@hust.edu.cn), Long Zheng (longzh@hust.edu.cn).
