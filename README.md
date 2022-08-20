@@ -1,7 +1,10 @@
-# XuLin-F
+# XuLin: A Data-Centric Accelerator for High-Performance Hypergraph Processing
 
-This is the upgraded version of XuLin-F which is implemented on the more advanced and powerful platform Xilinx Alveo U280 FPGA.
+## What's new?
 
+XuLin is accepted to be [MICRO 2022](https://www.microarch.org/micro55/).
+
+***XuLin-F for HBM-Enabled FPGA platforms has been released.***
 ## Introduction
 
 XuLin is a data-centric accelerator for high-performance hypergraph processing. 
